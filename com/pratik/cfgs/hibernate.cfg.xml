@@ -18,7 +18,7 @@
 		<property name="hbm2ddl.auto">update</property>
 
 <!-- 				<mapping resource="com/nt/cfgs/Emp.hbm.xml" /> -->
-		<mapping class="com.pratik.domain.EmpDate"/>
+		<mapping class="com.pratik.domain.EmpDate_UKC"/>
 
 	</session-factory>
 </hibernate-configuration>
